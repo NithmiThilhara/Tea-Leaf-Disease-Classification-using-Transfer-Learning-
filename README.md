@@ -1,4 +1,4 @@
-# Tea-Leaf-Disease-Classification-using-Transfer-Learning-
+# Tea-Leaf-Disease-Classification-using-Transfer-Learning
 
 ## Dataset 
 This dataset contains 368 total images. 113 algal leaf,113 brown blight and 142 white spot images. 
